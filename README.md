@@ -1,1 +1,3 @@
-[Conceptos básicos Laravel.pdf](https://github.com/user-attachments/files/25108187/Conceptos.basicos.Laravel.pdf)
+## Documentació
+
+Consulta el [Manual de Conceptos básicos Laravel](Conceptos.basicos.Laravel.pdf).
